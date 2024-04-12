@@ -1,0 +1,6 @@
+@GeekGroveAPI_HostAddress = http://localhost:5265
+
+GET {{GeekGroveAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
