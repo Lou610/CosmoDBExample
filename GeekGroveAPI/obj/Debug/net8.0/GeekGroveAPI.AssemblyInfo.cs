@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("609e67c3-bfc4-4916-a9d7-32646c267867")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekGroveAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c48e3c1ad9e1cde4e1eb7290453d7a3832c114")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekGroveAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekGroveAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

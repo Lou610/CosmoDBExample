@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iV7L+R/Uq95Zn1MIWbf8LnaOof7V5AX6xNzA2vWH8JwqoLo04OlyK55qRb1qeaK3Gu3AJx66BsBTRjssgazKyQ==",
+  "dgSpecHash": "mnh6pRrPc7w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\GeekGroveAPI.csproj",
+  "projectFilePath": "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\GeekGroveAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Loure\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Loure\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Loure\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",

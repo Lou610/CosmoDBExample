@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\GeekGroveAPI.csproj": {}
+    "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\GeekGroveAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\GeekGroveAPI.csproj": {
+    "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\GeekGroveAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\GeekGroveAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\GeekGroveAPI.csproj",
         "projectName": "GeekGroveAPI",
-        "projectPath": "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\GeekGroveAPI.csproj",
+        "projectPath": "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\GeekGroveAPI.csproj",
         "packagesPath": "C:\\Users\\Loure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Loure\\OneDrive\\Documents\\Projects\\Mentoring\\GeekGroveAPI\\GeekGroveAPI\\obj\\",
+        "outputPath": "C:\\Users\\Loure\\Source\\Repos\\CosmoDBExample\\GeekGroveAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,6 +61,10 @@
             "Microsoft.Azure.Cosmos": {
               "target": "Package",
               "version": "[3.38.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
@@ -89,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
