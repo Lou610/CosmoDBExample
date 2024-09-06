@@ -14,7 +14,7 @@ namespace GeekGroveAPI.Controllers
     [ApiExplorerSettings(GroupName = "v1")]
     public class CharacterController : ControllerBase
     {
-       //TODO: Remove hard coded values
+       
         public string ServerURL =  "https://geekgrove.documents.azure.com:443/";
         public string PrimaryKey = "JPSOst1DDAo2BNZ2S1e3ifQUW9RxEV90G7hbMwaKtI6TWN5eOm3e5zeqQfIrXUJ2lHOvK5ic6VaHACDbHXlQZw==";
         public string Db = "KronoStudio";
